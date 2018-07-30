@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,generic_pool",
+    "logging_enabled": "false",
+    "name": "generic_poolSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "generic_poolSmokeTest.js"
+}
